@@ -1,3 +1,14 @@
 {
-  "products": []
+  "posts": [
+    {
+      "title": "ewfewqwqwqwqwqwqwqwqwqwwf",
+      "content": "fewfwqwqwqwqwqwqwqwqwqwwef",
+      "id": 9
+    },
+    {
+      "title": "ewfewqwqwqwqwqwqwqwqwqwwf",
+      "content": "fewfwqwqwqwqwqwqwqwqwqwwef",
+      "id": 10
+    }
+  ]
 }
